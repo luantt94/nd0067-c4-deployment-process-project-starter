@@ -43,6 +43,7 @@ jobs:
           command: |
             echo "TODO: Build the frontend app"
             cd udagram/udagram-frontend
+            ls -la
             npm run build
       # TODO: Build the backend API      
       - run:
