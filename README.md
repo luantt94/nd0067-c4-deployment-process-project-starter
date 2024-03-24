@@ -16,8 +16,6 @@ The project will also include writing documentation and runbooks covering the op
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-
-
 ### Dependencies
 
 ```
@@ -71,4 +69,35 @@ The e2e tests are using Protractor and Jasmine.
 
 [License](LICENSE.txt)
 
-test
+# Screenshots
+
+## AWS RDS for the database
+
+![](resources/imgs/db.JPG)
+
+## AWS ElasticBeanstalk
+
+![](resources/imgs/eb_access.JPG)
+
+![](resources/imgs/eb_healthy.JPG)
+
+![](resources/imgs/eb_config1.JPG)
+
+![](resources/imgs/eb_config2.JPG)
+
+## AWS s3 for web hosting
+
+![](resources/imgs/s3.JPG)
+![](resources/imgs/web1.JPG)
+![](resources/imgs/web2.JPG)
+
+## CircleCi
+
+![](resources/imgs/cir_all_pipelines.JPG)
+![](resources/imgs/cir_lastbuild.JPG)
+![](resources/imgs/cir_lastdeploy.JPG)
+![](resources/imgs/cir_setting.JPG)
+
+## IAM user
+
+![](resources/imgs/user.JPG)
